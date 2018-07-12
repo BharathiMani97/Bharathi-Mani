@@ -6,6 +6,6 @@ if(((x>='a')and(x<='z'))or((x>='A')and(x<='Z'))):
 	if x in list:
 		print("Vowel")
 	else:
-		print("consonant")
+		print("Consonant")
 else:
 	print("Invalid input")
